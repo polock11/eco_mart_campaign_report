@@ -1,3 +1,3 @@
 ### Campaign Performance
 
-![App Screenshot](Buyer Info)
+![App Screenshot](Buyer Info.png)
